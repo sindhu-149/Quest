@@ -234,10 +234,10 @@
     border-radius: 5px;
 }
 .owl-theme .owl-controls .owl-nav [class*="owl-"]:hover {
-    background: none repeat scroll 0 0 #f6b129;
+    background: none repeat scroll 0 0 #16a086;
     color: white;
     text-decoration: none;
-    border: 1px solid #f6b129;
+    border: 1px solid #16a086;
     transition: all 500ms ease;
 }
 .owl-theme .owl-controls .owl-nav .disabled {
@@ -258,7 +258,7 @@
     width: 15px;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-    background: none repeat scroll 0 0 #f6b129;
+    background: none repeat scroll 0 0 #16a086;
     height: 7px;
     width: 30px;
 }
